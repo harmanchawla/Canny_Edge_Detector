@@ -1,5 +1,5 @@
-# Canny_Edge_Detector
- Canny Edge Detector implemented from scratch in Python
+# Canny Edge Detector
+Project 1 | Computer Vision: Canny Edge Detector implemented from scratch in Python
  
  
  
