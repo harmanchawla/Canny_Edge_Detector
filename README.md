@@ -4,7 +4,9 @@
  
  
 Orignial Image
+
 ![Image of Zebra: Orignial Image](https://github.com/harmanchawla/Canny_Edge_Detector/blob/master/sample1.bmp)
+
 
 
 Canny Edge Detector: Threshold 10
