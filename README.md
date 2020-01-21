@@ -4,8 +4,8 @@
 ![Image of Zebra: Orignial Image]
 (https://github.com/harmanchawla/Canny_Edge_Detector/blob/master/sample1.bmp)
 
-![Image of Canny Edge Detector: Threshold 10]
-(https://github.com/harmanchawla/Canny_Edge_Detector/blob/master/Output%20Images/Zebra/Threshold%2010.jpg)
+![alt text]
+(https://github.com/harmanchawla/Canny_Edge_Detector/blob/master/Output%20Images/Zebra/Threshold%2010.jpg "Canny Edge Detector: Threshold 10")
 
 ![Image of Canny Edge Detector: Threshold 30]
 (https://github.com/harmanchawla/Canny_Edge_Detector/blob/master/Output%20Images/Zebra/Threshold%2030.jpg)
